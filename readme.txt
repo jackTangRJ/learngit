@@ -13,7 +13,8 @@ git学习效果如下
 自定义Git
 期末总结
 关于作者
-Git is a free software
+
+git是最棒的
   
 
  
